@@ -1,1 +1,1 @@
-"# python-vanila-web" 
+"# python todo app using vanila python" 
